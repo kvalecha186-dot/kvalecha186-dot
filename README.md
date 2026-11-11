@@ -58,21 +58,33 @@
 
 #### 🎓 [CU Faculty Connect — Mentorship & Support Portal](https://github.com/kvalecha186-dot/cufacultyconnect) &nbsp;[![Live Demo](https://img.shields.io/badge/Demo-Live-brightgreen?style=flat-square)](https://cufacultyconnect.vercel.app)
 > An institutional digital mentorship and academic support platform designed for Chandigarh University connecting 5 campus stakeholders into a unified guidance ecosystem.
+
+<img src="docs/screenshots/cufacultyconnect.webp" alt="CU Faculty Connect landing page" width="640"/>
+
 * **Tech Stack**: React 18, TypeScript, Vite 6, Tailwind CSS v4, Supabase (PostgreSQL, Realtime WebSockets, RLS), React Router v7, Radix UI, Recharts.
 * **Key Features**: Smart session booking with conflict detection, live Google Meet/Zoom link dispatcher with WebSockets alerts, Senior Peer Buddy forum, faculty mentorship audit metrics, and institutional student welfare radar.
 
 #### 🌟 [Starfix Mentorship Platform](https://github.com/kvalecha186-dot/Starfix-Website) &nbsp;[![Live Demo](https://img.shields.io/badge/Demo-Live-brightgreen?style=flat-square)](https://starfix-website.vercel.app)
 > A full-stack luxury personal-growth and mentorship platform featuring dual student/mentor portals, constellation progress tracking, and gamified daily missions.
+
+<img src="docs/screenshots/starfix.webp" alt="Starfix landing page" width="640"/>
+
 * **Tech Stack**: React, TypeScript, Vite, Tailwind CSS, Supabase (PostgreSQL, Row-Level Security, Auth triggers).
 * **Key Features**: Role-based access control, interactive splash flow, profile management, and backend synchronization.
 
 #### 📊 [Starfix Admin Dashboard](https://github.com/kvalecha186-dot/premium-admin-dashboard) &nbsp;[![Live Demo](https://img.shields.io/badge/Demo-Live-brightgreen?style=flat-square)](https://premium-admin-dashboard.vercel.app)
 > An administrative dashboard tailored for monitoring learner trajectories and mentorship operations.
+
+<img src="docs/screenshots/admin-login.webp" alt="Starfix Admin sign-in" width="640"/>
+
 * **Tech Stack**: React 19, TypeScript, Vite, Tailwind CSS v4.
 * **Key Features**: Learner directory with category filters, XP/streak path monitors, and responsive dark/light visual analytics.
 
 #### 🚨 [ERS — Emergency Response System](https://github.com/kvalecha186-dot/ers-app)
 > A native Android application providing silent, rapid personal safety alert mechanisms.
+
+<img src="docs/screenshots/ers.webp" alt="ERS product website" width="640"/>
+
 * **Tech Stack**: Java, Android SDK, Android Accessibility Services, Foreground Services.
 * **Key Features**: Physical volume-button trigger service, background audio capture, real-time GPS location tracking, and automated emergency SMS & WhatsApp dispatch.
 
